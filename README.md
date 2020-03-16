@@ -1,9 +1,9 @@
 # laravel-toast
-Simple toast messages for Laravel 5.
+Simple toast messages for Laravel.
 
 
 ## Installation
-**1.** Run `composer require grimthorr/laravel-toast` to include this in your project.
+**1.** Run `composer require rexlmanu/laravel-toast` to include this in your project.
 
 **2.** *Optional, Laravel 5.4 and below*: Add `'Grimthorr\LaravelToast\ServiceProvider'` to `providers` in `config/app.php`, and add `'Toast' => 'Grimthorr\LaravelToast\Facade'` to `aliases` in `config/app.php`.
 
